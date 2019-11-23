@@ -8,6 +8,10 @@ http-response ^https?:\/\/(i|newdrugs)\.dxy\.cn\/(snsapi\/username\/|app\/user\/
 hostname = newdrugs.dxy.cn
 */
 
+/**
+ * @supported A9DEBB136F7C 8DE20E8149AC ED6FD249DAAC AXXXC005
+ */
+
 const path1 = "/snsapi/username/";
 const path2 = "/app/user/pro/stat?";
 const path3 = "/app/user/init?timestamp=";
