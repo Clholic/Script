@@ -10,6 +10,10 @@ https:\/\/origin-prod-phoenix\.jibjab\.com\/v1\/user url script-response-body ht
 Surge & QX MITM = origin-prod-phoenix.jibjab.com
 */
 
+/**
+ * @supported A9DEBB136F7C 8DE20E8149AC ED6FD249DAAC AXXXC005
+ */
+
 let obj = JSON.parse($response.body);
 obj.data.attributes["is-paid"] = true;
 obj.data.attributes["email"] = "禁止牟利,TG频道@NobyDa";
