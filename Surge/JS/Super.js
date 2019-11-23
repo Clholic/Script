@@ -6,6 +6,10 @@ http-response ^https?://[a-z]*\.snssdk\.com/bds/feed/stream/ requires-body=1,max
 hostname = *.snssdk.com
 */
 
+/**
+ * @supported A9DEBB136F7C 8DE20E8149AC ED6FD249DAAC AXXXC005
+ */
+
 var obj = JSON.parse($response.body);
 if (obj.data.data) {
   for (var i = obj.data.data.length - 1; i >= 0; i--) {
