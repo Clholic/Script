@@ -11,7 +11,7 @@ Surge & QX MITM = vsco.co
 */
 
 /**
- * @supported 91084FFA2796
+ * @supported A9DEBB136F7C 8DE20E8149AC ED6FD249DAAC AXXXC005
  */
 
 var body = $response.body;
