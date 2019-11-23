@@ -6,6 +6,10 @@ http-response ^https://[a-zA-Z]*\.snssdk\.com/api/news/feed/v88/ requires-body=1
 hostname = *.snssdk.com
 */
 
+/**
+ * @supported A9DEBB136F7C 8DE20E8149AC ED6FD249DAAC AXXXC005
+ */
+
 var obj = JSON.parse($response.body);
 if (obj.data) {
   for (var i = obj.data.length - 1; i >= 0; i--) {
