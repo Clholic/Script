@@ -10,6 +10,10 @@ http-response ^https://app.bilibili.com/x/resource/show/tab\?access_key requires
 Surge & QX MITM = app.bilibili.com
 */
 
+/**
+ * @supported A9DEBB136F7C 8DE20E8149AC ED6FD249DAAC AXXXC005
+ */
+
 let whitelist=['追番','推荐','直播','热门','影视']
 
 let body = $response.body
