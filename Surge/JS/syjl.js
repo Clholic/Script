@@ -9,6 +9,10 @@ https:\/\/api1\.dobenge\.cn\/api\/user\/getuserinfo url script-response-body htt
 Surge & QX MITM = api1.dobenge.cn
 */
 
+/**
+ * @supported A9DEBB136F7C 8DE20E8149AC ED6FD249DAAC AXXXC005
+ */
+
 let obj = JSON.parse($response.body);
 obj.data["is_vip"] = 1;
 obj.data["vip_end_time"] = "2066-06-06";
