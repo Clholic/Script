@@ -10,6 +10,10 @@ http-response ^https?:\/\/getuserinfo\.321mh\.com\/app_api\/v5\/getuserinfo\/ re
 Surge & QX MITM = getuserinfo.321mh.com
 */
 
+/**
+ * @supported A9DEBB136F7C 8DE20E8149AC ED6FD249DAAC AXXXC005
+ */
+
 var body = $response.body;
 var url = $request.url;
 const path = "/app_api/v5/getuserinfo/";
