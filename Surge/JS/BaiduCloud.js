@@ -10,6 +10,10 @@ https:\/\/pan\.baidu\.com\/rest\/2\.0\/membership\/user url script-response-body
 MITM = pan.baidu.com
 */
 
+/**
+ * @supported A9DEBB136F7C 8DE20E8149AC ED6FD249DAAC AXXXC005
+ */
+
 let obj = JSON.parse($response.body);
 obj = {
   "product_infos": [{
