@@ -9,7 +9,7 @@ http-request ^https?:\/\/.+\.(my10api|(.*91.*))\.(com|tips|app|xyz)(:\d{2,5})?\/
 
 /**
  * @supported A9DEBB136F7C 8DE20E8149AC ED6FD249DAAC AXXXC005
-*/
+ */
  
 let length = $request.headers['Content-Length'];
 if(length == 462 || length == 464 || length == 466 || length == 570 || length == 572 || length == 574) {
