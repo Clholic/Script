@@ -1,6 +1,7 @@
 # 内容：Steam&Epic
 # 数量：18+4条
-host, cdn.mileweb.cs.steampowered.com
+host, cdn.mileweb.cs
+host, steampowered.com
 host, 8686c.com
 host, dl.steam.ksyna.com
 host, st.dl.bscstorage.net
