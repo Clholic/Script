@@ -1,9 +1,5 @@
 # 内容：Steam&Epic
 # 数量：18+4条
-host, dl.steam.ksyna.com
-host, st.dl.bscstorage.net
-host, st.dl.eccdnx.com
-host, st.dl.pinyuncloud.com
 host-suffix, csgo.wmsj.cn
 host-suffix, dota2.wmsj.cn
 host-suffix, fanatical.com
