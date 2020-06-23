@@ -1,0 +1,24 @@
+# 内容：Steam&Epic
+# 数量：18+4条
+DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com,proxy
+DOMAIN,dl.steam.ksyna.com,proxy
+DOMAIN,st.dl.bscstorage.net,proxy
+DOMAIN,st.dl.eccdnx.com,proxy
+DOMAIN,st.dl.pinyuncloud.com,proxy
+DOMAIN-SUFFIX,csgo.wmsj.cn,proxy
+DOMAIN-SUFFIX,dota2.wmsj.cn,proxy
+DOMAIN-SUFFIX,fanatical.com,proxy
+DOMAIN-SUFFIX,humblebundle.com,proxy
+DOMAIN-SUFFIX,steam-chat.com,proxy
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net,proxy
+DOMAIN-SUFFIX,steamcommunity.com,proxy
+DOMAIN-SUFFIX,steamcontent.com,proxy
+DOMAIN-SUFFIX,steamgames.com,proxy
+DOMAIN-SUFFIX,steampowered.com,proxy
+DOMAIN-SUFFIX,steamstat.us,proxy
+DOMAIN-SUFFIX,steamstatic.com,proxy
+DOMAIN-SUFFIX,steamusercontent.com,proxy
+DOMAIN-SUFFIX,epicgames.com,proxy
+DOMAIN-SUFFIX,helpshift.com,proxy
+DOMAIN-SUFFIX,paragon.com,proxy
+DOMAIN-SUFFIX,unrealengine.com,proxy
