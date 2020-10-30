@@ -8,16 +8,6 @@ DOMAIN,st.dl.pinyuncloud.com,proxy
 DOMAIN-SUFFIX,csgo.wmsj.cn,proxy
 DOMAIN-SUFFIX,dota2.wmsj.cn,proxy
 DOMAIN-SUFFIX,fanatical.com,proxy
-DOMAIN-SUFFIX,humblebundle.com,proxy
-DOMAIN-SUFFIX,steam-chat.com,proxy
-DOMAIN-SUFFIX,steamcdn-a.akamaihd.net,proxy
-DOMAIN-SUFFIX,steamcommunity.com,proxy
-DOMAIN-SUFFIX,steamcontent.com,proxy
-DOMAIN-SUFFIX,steamgames.com,proxy
-DOMAIN-SUFFIX,steampowered.com,proxy
-DOMAIN-SUFFIX,steamstat.us,proxy
-DOMAIN-SUFFIX,steamstatic.com,proxy
-DOMAIN-SUFFIX,steamusercontent.com,proxy
 DOMAIN-SUFFIX,epicgames.com,proxy
 DOMAIN-SUFFIX,helpshift.com,proxy
 DOMAIN-SUFFIX,paragon.com,proxy
